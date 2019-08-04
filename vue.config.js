@@ -23,7 +23,7 @@ module.exports = {
         modifyVars: {
           "primary-color": "#1DA57A"
         },
-        javascriptEnabled: true
+        javascriptEnabled: true // 可以加载 .less
       }
     }
   },
